@@ -25,6 +25,7 @@ The Ethereum mainnet contract addresses are as follows:
 
 - **Award:** `0x5a867f6B759cA090E47CBfdBB3eA76E427262862`
 - **Timelock:** `0x6DFC642EFADC62CF6B86E5dD53e7A146Ec6f10e4`
+- **BlackHole:** `0x1c5b3258016B8b1634795d3D0B3866947AcfEE19`
 
 
 
@@ -39,4 +40,3 @@ The Ethereum mainnet contract addresses are as follows:
 - **MFactory:** `0x20dC7DA7cFc8F5b465060496a170229dc4A47A87`
 - **MAction:** `0x2f040811894D8ce50694Ae8f9483d43Db21f1bfA`
 - **ExchangeProxy:** `0xcc6ebe3BC5B7feF57a3ab2889c6AbD6C6cFA50F6`
-
