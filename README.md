@@ -40,3 +40,13 @@ The Ethereum mainnet contract addresses are as follows:
 - **MFactory:** `0x20dC7DA7cFc8F5b465060496a170229dc4A47A87`
 - **MAction:** `0x2f040811894D8ce50694Ae8f9483d43Db21f1bfA`
 - **ExchangeProxy:** `0xcc6ebe3BC5B7feF57a3ab2889c6AbD6C6cFA50F6`
+- **PairFactory:** `0x0`
+
+
+
+**- MEE Mining -**
+
+- **LPMining:** `0xe232143EE439cC36FD5CaA580edED05e7324a58F`
+- **Oracle:** `0xB659f06AA83aaa0563653B1E8B4276d990C8a500`
+
+
